@@ -1,4 +1,4 @@
-# Way To Machine Learning 评论系统
+# Way To Machine Learning Comment System
 
 利用Gitalk为静态网页搭载评论系统， 有如下特色:
 
